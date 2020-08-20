@@ -1,6 +1,6 @@
 # AugustPlayground
 
-This is not a playground for the August SDET intake to mess around in!
+This is not a game for the August SDET intake to mess around in!
 
 If you want to add stuff to this amazing repo, you need to make your own branch and start a Pull Request telling me why it's worth including your branch!
 
