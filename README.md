@@ -10,4 +10,4 @@ ADD ME PLS xx
 
 ![Frog](https://cdn.mos.cms.futurecdn.net/AZoZT5cVZZNM7CvPctuDbf-650-80.jpg.webp)
 
-![Dog](https://i.imgur.com/gcyYTzs.jpg)
+![Dog](https://i.pinimg.com/originals/00/3e/57/003e573d3cf0458f29a7fc028673d4ab.jpg)
